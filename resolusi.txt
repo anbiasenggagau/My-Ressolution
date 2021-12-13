@@ -7,4 +7,4 @@ Rencana Belajar Masa Depan
 -React.JS
 -Node.JS
 -Cyber Security
--Embedded C++
+-Embedded C++ for Sensoring
