@@ -1,0 +1,10 @@
+Rencana Belajar Masa Depan
+
+-Advanced Python
+-Artificial intelligence
+-Machine Learning
+-Advanced JavaScript
+-React.JS
+-Node.JS
+-Cyber Security
+-Embedded C++
