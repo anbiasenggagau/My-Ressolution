@@ -1,10 +1,33 @@
 Rencana Belajar Masa Depan
 
+In-Coming :
+
 -Advanced Python
 -Artificial intelligence
 -Machine Learning
+-Data Science
+
 -Advanced JavaScript
 -React.JS
 -Node.JS
+
+-Networking
 -Cyber Security
+-AWS IoT
+-Microsoft Azure IoT
+
 -Embedded C++ for Sensoring
+
+-Git & GitHub
+-Agile Development
+
+-Bootstrap
+====================================================
+Done :
+-Intermediet JavaScript
+-Intermediet Python
+-PHP
+-HTML
+-C++
+-CSS
+-MVC
