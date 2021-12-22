@@ -7,7 +7,6 @@ In-Coming :
 -Machine Learning
 -Data Science
 
--Advanced JavaScript
 -React.JS
 -Node.JS
 
@@ -18,16 +17,26 @@ In-Coming :
 
 -Embedded C++ for Sensoring
 
--Git & GitHub
 -Agile Development
 
--Bootstrap
 ====================================================
 Done :
 -Intermediet JavaScript
--Intermediet Python
--PHP
--HTML
--C++
+-Advanced JavaScript
+
 -CSS
+-Bootstrap
+
+-PHP
 -MVC
+
+-HTML
+
+-Intermediet Python
+
+-PostgreSQL
+
+-C++
+
+-Git & GitHub
+
