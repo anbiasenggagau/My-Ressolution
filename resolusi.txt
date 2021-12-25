@@ -3,9 +3,11 @@ Rencana Belajar Masa Depan
 In-Coming :
 
 -Advanced Python
+-Django
 -Artificial intelligence
 -Machine Learning
 -Data Science
+-TensorFlow
 
 -React.JS
 -Node.JS
