@@ -8,6 +8,10 @@ In-Coming :
 -Machine Learning
 -Data Science
 -TensorFlow
+-PyTorch
+-Keras
+-Pandas
+-NumPy
 
 -React.JS
 -Node.JS
@@ -16,11 +20,14 @@ In-Coming :
 -Cyber Security
 -AWS IoT
 -Microsoft Azure IoT
+-MongoDB
 
 -Embedded C++ for Sensoring
 
 -Agile Development
 -Docker
+-Tableau
+-Power BI
 
 ====================================================
 Done :
@@ -38,6 +45,8 @@ Done :
 -Intermediet Python
 
 -PostgreSQL
+-MySQL
+-SQLite
 
 -C++
 
