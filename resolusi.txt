@@ -14,14 +14,12 @@ In-Coming :
 -NumPy
 
 -React.JS
--Node.JS
 -REST APIs
 
 -Networking
 -Cyber Security
 -AWS IoT
 -Microsoft Azure IoT
--MongoDB
 
 -Embedded C++ for Sensoring
 
@@ -32,8 +30,10 @@ In-Coming :
 
 ====================================================
 Done :
+
 -Intermediet JavaScript
 -Advanced JavaScript
+-Node.JS
 
 -CSS
 -Bootstrap
@@ -48,6 +48,7 @@ Done :
 -PostgreSQL
 -MySQL
 -SQLite
+-MongoDB
 
 -C++
 
