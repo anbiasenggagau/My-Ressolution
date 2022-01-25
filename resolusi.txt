@@ -14,7 +14,6 @@ In-Coming :
 -NumPy
 
 -React.JS
--REST APIs
 
 -Networking
 -Cyber Security
@@ -34,6 +33,7 @@ Done :
 -Intermediet JavaScript
 -Advanced JavaScript
 -Node.JS
+-REST APIs
 
 -CSS
 -Bootstrap
